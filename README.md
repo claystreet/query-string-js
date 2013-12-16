@@ -1,4 +1,4 @@
-#Bootstrap Tipover
+#Query String JS
 
 **Provided by [Clay Street Online](http://www.claystreet.com) under an MIT License**
 
@@ -17,17 +17,17 @@ Parses query string parameters in client-side JavaScript.
 Provides the ability to retrieve query string parameters from a page's document
 or any nodes containing 'src', 'href', 'action', or 'formAction' properties.
 
-Returns a JavaScript object containing name/value pairs for all query string
+Returns a JavaScript object containing the name/value pairs of all query string
 parameters.
 
 ### The Code
 
 Two JavaScript files are provided.  Both files are self-contained (they don't depend on each other).
 
-1. querystring.js
+1. **querystring.js** - 
    A pure/plain JavaScript implementation
    
-2. querystring_jq.js
+2. **querystring_jq.js** - 
    A JQuery plugin implementation
    
 ### Example Usage
