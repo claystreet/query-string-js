@@ -10,7 +10,7 @@ query string parameters in the client-side JavaScript code.
 
 ### Purpose
 
-Parses query string parameters in client-side JavaScript.
+Parse query string parameters in client-side JavaScript.
 
 ### Overview
 
