@@ -62,8 +62,6 @@ if ('yourVar' in myLinkVars) {
 
 ### That's it
 
-I hope that's enough to get you started.
-
 The "Save URL" feature of the following sites are example usages:
 * [LoanDelta.com - Loan Calculator](http://www.loandelta.com/)
 * [CompareTvSizes.com - TV Screen Size Comparison](http://www.comparetvsizes.com/)
